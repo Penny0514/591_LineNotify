@@ -1,0 +1,6 @@
+emoji
+requests
+BeautifulSoup
+re
+time
+random
